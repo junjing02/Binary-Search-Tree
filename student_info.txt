@@ -1,0 +1,73 @@
+
+
+*****************************************************
+	Student Info in ASCENDING ORDER
+*****************************************************
+
+Name: Matt Damon
+ID: 18
+Address: 465 Ripley Boulevard, Oscar Mansion, Malaysia 7666322
+Date of Birth: 10-10-1970
+Phone No: 790-3233
+Course: CS
+CGPA: 3.12076
+
+Name: Phua Chu Kang
+ID: 19
+Address: 50 PCK Avenue, Malaysia 639798
+Date of Birth: 11-08-1964
+Phone No: 345-6780
+Course: CS
+CGPA: 3.12076
+
+Name: Zoe Tay
+ID: 21
+Address: 100 Blue Eyed St, Malaysia 456872
+Date of Birth: 15-02-1968
+Phone No: 456-1234
+Course: CS
+CGPA: 3.12076
+
+Name: Ben Affleck
+ID: 22
+Address: 200 Hunting Street, Malaysia 784563
+Date of Birth: 25-10-1968
+Phone No: 432-4579
+Course: IB
+CGPA: 3.12076
+
+Name: Salma Hayek
+ID: 23
+Address: 45 Mexican Boulevard, Hotel California, Malaysia 467822
+Date of Birth: 06-04-1973
+Phone No: 790-0000
+Course: CS
+CGPA: 3.12076
+
+Name: Matt Damon
+ID: 25
+Address: 465 Ripley Boulevard, Oscar Mansion, Malaysia 7666322
+Date of Birth: 10-10-1970
+Phone No: 790-3233
+Course: CS
+CGPA: 3.12076
+
+Name: Matt Damon
+ID: 28
+Address: 465 Ripley Boulevard, Oscar Mansion, Malaysia 7666322
+Date of Birth: 10-10-1970
+Phone No: 790-3233
+Course: CS
+CGPA: 3.12076
+
+Name: Julia Roberts
+ID: 125
+Address: 100 Brokovich St, Malaysia 456455
+Date of Birth: 15-08-1965
+Phone No: 456-4321
+Course: IB
+CGPA: 3.23678
+
+*****************************************************
+
+
