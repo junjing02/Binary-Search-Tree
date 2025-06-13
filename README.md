@@ -3,11 +3,6 @@
 **Course:** Data Structures and Algorithmic Problem Solving  
 **Assignment:** 2 – Binary Search Tree  
 
-## Group Members  
-- Alice Tan  
-- Bob Lee  
-- Carol Lim  
-
 ## Overview  
 A simple C++ console program that uses a Binary Search Tree (BST) to store and search student records.  
 Implements:  
